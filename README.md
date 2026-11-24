@@ -1,6 +1,6 @@
 ## 📢 央视频订阅地址
 
-- **频道**：[订阅](https://gh-proxy.org/https://raw.githubusercontent.com/supstill/ysp-live/main/)
+- **频道**：[订阅](https://gh-proxy.org/https://raw.githubusercontent.com/supstill/ysp-live/main/ysp-live-v9.8-TMXK.py)
 
 ---
 
