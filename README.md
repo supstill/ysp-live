@@ -1,3 +1,9 @@
+## 📢 央视频订阅地址
+
+- **频道**：[订阅](https://gh-proxy.org/https://raw.githubusercontent.com/supstill/ysp-live/main/)
+
+---
+
 # 🚀 ysp-live-docker (软路由优化版)
 
 一个基于 Docker 与 Python 构建的轻量级流媒体代理与直播源处理工具。针对软路由（OpenWrt）环境深度优化，完美解决复杂的 NAT/网桥痛点，实现开箱即用与一键智能化部署。
